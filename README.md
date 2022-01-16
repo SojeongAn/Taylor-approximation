@@ -1,2 +1,3 @@
-# Assignment02
-this is assignment02
+# Taylor approximation
+
+Talyor approximation is implemented using MNIST in python.
